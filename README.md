@@ -3,7 +3,7 @@
 ## About Me
 I'm 17 years old and I'm a computer technician. I am currently a student of Web Programming.
 <br>
-I am a web developer passionate about the design world. 🎉
+I am a developer passionate about the design world. 🎉
 
 ## Technologies
 - Front-End with HTML, CSS, JS
