@@ -1,12 +1,10 @@
-### Hi there 👋  
-
-## About Me
-I'm 17 years old and I'm a computer technician. I am currently a student of Web Programming.
+### About Me
+I'm almost 18 years old and I'm currently a student of "Web Programming".
 <br>
-I am a developer passionate about the design world. 🎉
+I'm a developer and passionate about Design. 🎉
 
-## Technologies
-- Front-End with HTML, CSS, JS
+### Technologies
+- Front-End with HTML, CSS and JS
 - Back-End with NodeJS
 - UI Design using Figma
 
@@ -17,6 +15,6 @@ I am a developer passionate about the design world. 🎉
 <code><img height="30" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg"></code>
 <code><img height="30" src="https://xesque.rocketseat.dev/platform/tech/node.svg"></code>
 
-### Contact Me
+## Contact Me
 - <a href="https://www.linkedin.com/in/wesleydamasceno/">Linkedin</a>
-- <a href="https://instagram.com/wesleydamasceno4">Instagram Pessoal</a>
+- <a href="https://instagram.com/wesleydamasceno4">Instagram</a>
