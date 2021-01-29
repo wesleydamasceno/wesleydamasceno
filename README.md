@@ -1,7 +1,6 @@
 ### About Me
-<p>I am 18 years old and I am currently a student of "Web Programming".</p>
-<br>
-<p>I'm a developer and passionate about Design. 🎉</p>
+I am 18 years old and I am currently a student of "Web Programming". <br>
+I'm a developer and passionate about Design. 🎉
 
 **Technologies**
 - Front-End with HTML, CSS and JS
